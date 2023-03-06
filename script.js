@@ -31,20 +31,18 @@
 // let a = 5
 // let b = '5'
 //
-// console.log(a * 2)
+// console.log( +b + a)
 
-// let a = 5
-// let b = '5'
+// let a = 5;
+// let b = '5';
+//
+// b = Number(b)
 //
 // console.log(a + b)
 
-// let a = 5
-// let b = '5'
+
+// let c = 2
+// let b = undefined
 //
-// console.log(a * b)
-
-let c = 2
-let b = undefined
-
-console.log(a = b)
+// console.log(a = b)
 
