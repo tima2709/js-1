@@ -44,5 +44,15 @@
 // let c = 2
 // let b = undefined
 //
-// console.log(a = b)
+// console.log(c = b)
+
+// let c = 2
+// let b = undefined
+//
+// console.log(c + b)
+
+// let c = 2
+// let b = undefined
+//
+// console.log(c == b)
 
